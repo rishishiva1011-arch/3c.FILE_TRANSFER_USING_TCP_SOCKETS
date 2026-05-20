@@ -75,14 +75,20 @@ TCP ensures reliable file transfer.
 ## OUPUT
 
 Serverside
+
+
 <img width="436" height="82" alt="Screenshot 2026-05-20 140720" src="https://github.com/user-attachments/assets/1099f6ea-5d15-48ba-a833-db25215bbfbd" />
 
 
 Clientside
+
+
 <img width="437" height="90" alt="Screenshot 2026-05-20 140732" src="https://github.com/user-attachments/assets/16f23794-d3ab-4d71-841d-a81480cd48cb" />
 
 
 Received File(received_file)
+
+
 <img width="527" height="136" alt="image" src="https://github.com/user-attachments/assets/2727b4f7-a16a-4aaf-9c4a-02bcc37af1c5" />
 
 
